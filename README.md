@@ -1,4 +1,4 @@
-The original is by @ivysone
+**The original is by @ivysone**
 
 # Will You Be My Valentine? 💌
 
@@ -27,7 +27,7 @@ This project consists of a simple webpage with a "Yes" and "No" button. When the
 
 ---
 
-## A Note on Code Usage 
+## A Note on Code Usage from @ivysone
 
 While I am happy to share this project, I encourage you to use it as inspiration.
 If you use this code as a base for your own project, please give credit where it's due. A simple shoutout or link back to this repository is appreciated!
@@ -58,5 +58,3 @@ If you use this code as a base for your own project, please give credit where it
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Enjoy 💖
